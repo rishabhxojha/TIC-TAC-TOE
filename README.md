@@ -8,4 +8,4 @@ Two-Player Mode: Play against another human player.
 Responsive Design: Works on both desktop and mobile devices.
 Intuitive UI: Easy to use and navigate.
 
-👉Live Demo:https://rishabhxojha.github.io/TIC-TAC-TOE/
+👉Live Demo: https://rishabhxojha.github.io/TIC-TAC-TOE/
